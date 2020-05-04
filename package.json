@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"Sarah"
+	"author":"Sarah",
+	"description": "A project practicing NPM on FCC"
 }

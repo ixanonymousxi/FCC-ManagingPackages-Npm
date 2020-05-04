@@ -15,5 +15,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author":"Sarah",
-	"description": "A project practicing NPM on FCC"
+	"description": "A project practicing NPM on FCC",
+	"keywords": [ "freecodecamp", "npm", "packages" ],
+  	"license": "MIT",
 }
